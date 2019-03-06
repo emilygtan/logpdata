@@ -1,1 +1,2 @@
-# Predicting LogP values based on NaTUrAL LAnGuAgE pROcEsSiNg
+# LogP data 
+https://www.kaggle.com/matthewmasters/chemical-structure-and-logp
